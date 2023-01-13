@@ -1,0 +1,13 @@
+.profile{
+    display: flex;
+}
+
+.prfileRight{
+    flex: 9;
+}
+.prfileRightTop{}
+.prfileRightBottom{
+    display: flex;
+}
+.profileImg{}
+.{}
